@@ -3,5 +3,4 @@
 ! public: false
 ! author: Running Events Team
 
-$discard,site=biegigorskie.pl
-$discard,site=kalendarzbiegowy.pl
+$boost,site=zywiec.powiat.pl
