@@ -1,0 +1,6 @@
+! name: Running Events Goggle
+! description: Domains rules for search engine
+! public: false
+! author: Running Events Team
+
+$discard,site=biegigorskie.pl
